@@ -39,7 +39,7 @@ Only real questions get through: facts only you have (prices, brand choices for 
 With the [skills CLI](https://skills.sh):
 
 ```bash
-npx skills@1.8.1 add https://github.com/RabbitDesigns22/no-obvious-questions/tree/8574703ec965e2388f90bf4ee8264f83b4aed45e
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/no-obvious-questions/tree/9b51158410270c6b17336634fd50a81e06a41cc8
 ```
 
 Or manually: copy `skills/no-obvious-questions/` into `~/.claude/skills/`.
@@ -48,7 +48,7 @@ Or manually: copy `skills/no-obvious-questions/` into `~/.claude/skills/`.
 
 **Que el agente no te pregunte lo que ya sabe.** Antes de cada pregunta revisa cinco cosas: si ya está la respuesta, si la puede buscar, si es una decisión lógica, si ya está autorizado o si es obvio y sin riesgo. Si cumple alguna, lo hace en vez de preguntar. Las preguntas que de verdad hacen falta salen juntas, una sola vez y con su recomendación.
 
-Instalar: `npx skills@1.8.1 add https://github.com/RabbitDesigns22/no-obvious-questions/tree/8574703ec965e2388f90bf4ee8264f83b4aed45e`
+Instalar: `npx skills@1.8.1 add https://github.com/RabbitDesigns22/no-obvious-questions/tree/9b51158410270c6b17336634fd50a81e06a41cc8`
 
 ## More skills from the same setup
 
